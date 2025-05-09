@@ -5,9 +5,9 @@ st.info(
     "안녕하세요."
 )
 st.write(
-    "안녕하세요 ㅗㅗ ㅋㅋ"
+    "안녕하세요  ㅋㅋ"
 )
 # 페이지 구조용 제목 출력
-st.title("")
-st.header("")
-st.subheader("")
+st.title("박시언")
+st.header("박시우")
+st.subheader("싸워라")
